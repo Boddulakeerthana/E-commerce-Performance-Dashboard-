@@ -1,2 +1,27 @@
-# E-commerce-Performance-Dashboard-
-Interactive Excel dashboard for analyzing e-commerce sales using KPIs, charts, and slicers to support data-driven business decisions.
+# E-commerce Sales Dashboard (Excel)
+
+This project is an interactive Excel dashboard created to analyze e-commerce sales performance using KPIs, charts, slicers, and filters.
+## Dashboard Screenshots
+
+### Overall Dashboard View
+![Dashboard Overview](dashboard_overview.png)
+
+### Keep Performance Index Analysis
+![Sales Analysis](KPI_chart.png)
+
+### Rawdata
+![Region Performance](Rawdata.png)
+
+## Features
+- Sales and revenue analysis  
+- Category and region-wise performance  
+- Interactive slicers and timelines  
+- Clean visual insights for decision making  
+
+## Tools Used
+- Microsoft Excel  
+- Pivot Tables  
+- Charts & Slicers  
+
+## Objective
+To transform raw e-commerce data into meaningful business insights and support data-driven decisions.
