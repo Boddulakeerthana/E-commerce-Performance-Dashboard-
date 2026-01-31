@@ -1,6 +1,10 @@
 # E-commerce Sales Dashboard (Excel)
 
 This project is an interactive Excel dashboard created to analyze e-commerce sales performance using KPIs, charts, slicers, and filters.
+## Overall Dashboard Walkthrough (Video)
+
+🎥 Watch Demo: https://drive.google.com/file/d/1uckv-xPmdqjS6b03VuPZC173Uiy_2fY8/view?usp=drive_link
+
 ## Dashboard Screenshots
 
 ### Overall Dashboard View
