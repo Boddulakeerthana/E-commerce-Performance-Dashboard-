@@ -4,6 +4,7 @@ This project is an interactive Excel dashboard created to analyze e-commerce sal
 ## Overall Dashboard Walkthrough (Video)
 
 🎥 Watch Demo: https://drive.google.com/file/d/1uckv-xPmdqjS6b03VuPZC173Uiy_2fY8/view?usp=drive_link
+This video provides a quick walkthrough of the interactive features and key insights of the e-commerce dashboard.
 
 ## Dashboard Screenshots
 
