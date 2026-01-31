@@ -4,10 +4,10 @@ This project is an interactive Excel dashboard created to analyze e-commerce sal
 ## Dashboard Screenshots
 
 ### Overall Dashboard View
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](Dashboard_overview.png)
 
 ### Keep Performance Index Analysis
-![Sales Analysis](KPI_chart.png)
+![Sales Analysis](KPI_Chart.png)
 
 ### Rawdata
 ![Region Performance](Rawdata.png)
